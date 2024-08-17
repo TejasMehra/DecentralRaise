@@ -1,4 +1,4 @@
-## DecentralRaise - tokenize your vison, fuel your growth ##
+# DecentralRaise - tokenize your vison, fuel your growth #
 
 P2P FUNDING ON THE BLOCKCHAIN!
 
@@ -12,5 +12,5 @@ UVP? Milestone-Based Token Release.
 - Transparent progress
 - Incentivized completion
 
-# funding the the future, decentralized #
+## funding the the future, decentralized ##
 
